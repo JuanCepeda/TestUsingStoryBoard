@@ -16,6 +16,9 @@
 		04D339321CC5C6DB00C3ACE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D339301CC5C6DB00C3ACE2 /* LaunchScreen.storyboard */; };
 		04D3393D1CC5C6DB00C3ACE2 /* TestUsingStoryBoardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D3393C1CC5C6DB00C3ACE2 /* TestUsingStoryBoardTests.m */; };
 		04D339481CC5C6DB00C3ACE2 /* TestUsingStoryBoardUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D339471CC5C6DB00C3ACE2 /* TestUsingStoryBoardUITests.m */; };
+		04D339561CC5C8D500C3ACE2 /* SecondStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D339551CC5C8D500C3ACE2 /* SecondStoryboard.storyboard */; };
+		04D339571CC5C8D500C3ACE2 /* SecondStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D339551CC5C8D500C3ACE2 /* SecondStoryboard.storyboard */; };
+		04D339581CC5C8D500C3ACE2 /* SecondStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D339551CC5C8D500C3ACE2 /* SecondStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,7 @@
 		04D339431CC5C6DB00C3ACE2 /* TestUsingStoryBoardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestUsingStoryBoardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D339471CC5C6DB00C3ACE2 /* TestUsingStoryBoardUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestUsingStoryBoardUITests.m; sourceTree = "<group>"; };
 		04D339491CC5C6DB00C3ACE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D339551CC5C8D500C3ACE2 /* SecondStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = SecondStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +117,7 @@
 				04D339331CC5C6DB00C3ACE2 /* Info.plist */,
 				04D3392B1CC5C6DA00C3ACE2 /* TestUsingStoryBoard.xcdatamodeld */,
 				04D3391F1CC5C6DA00C3ACE2 /* Supporting Files */,
+				04D339551CC5C8D500C3ACE2 /* SecondStoryboard.storyboard */,
 			);
 			path = TestUsingStoryBoard;
 			sourceTree = "<group>";
@@ -249,6 +254,7 @@
 				04D339321CC5C6DB00C3ACE2 /* LaunchScreen.storyboard in Resources */,
 				04D3392F1CC5C6DB00C3ACE2 /* Assets.xcassets in Resources */,
 				04D3392A1CC5C6DA00C3ACE2 /* Main.storyboard in Resources */,
+				04D339561CC5C8D500C3ACE2 /* SecondStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D339571CC5C8D500C3ACE2 /* SecondStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +270,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D339581CC5C8D500C3ACE2 /* SecondStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
